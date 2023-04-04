@@ -1,9 +1,8 @@
-<?
+<?php
 $sSectionName = "Главная";
-$arDirProperties = Array(
+$arDirProperties = array(
+   "title" => "Центр компетенций Кузбасса",
    "description" => "Центр компетенций Кузбасса",
    "keywords" => "Центр компетенций Кузбасса",
-   "TITLE" => "Центр компетенций Кузбасса",
-   "ROBOTS" => "index, follow"
+   "robots" => "index, follow"
 );
-?>
